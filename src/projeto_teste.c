@@ -1,4 +1,4 @@
-//Juan e Giovanni
+//Juan
 
 #include <stdint.h>
 #include <stdbool.h>
